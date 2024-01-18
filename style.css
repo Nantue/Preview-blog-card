@@ -17,6 +17,7 @@
 body{
     display: grid;
     place-items: center;
+    grid-template-rows: 90% 1fr;
     height: 100vh;
     background-color: var(--color-yellow);
     font-size: 16px; 
